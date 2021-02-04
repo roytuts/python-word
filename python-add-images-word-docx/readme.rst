@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/add-images-to-word-file-in-python/
