@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/a-guide-to-write-word-file-using-python/
+Please follow the tutorial https://roytuts.com/a-guide-to-write-word-file-using-python/
